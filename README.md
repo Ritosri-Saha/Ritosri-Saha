@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/https://github.com/Ritosri-Saha.png" width="140" style="border-radius:50%;" />
+  <img src="https://github.com/Ritosri-Saha.png" width="140" style="border-radius:50%;" />
 </p>
 
 <h3 align="center">Frontend Developer in Progress | ECE Undergraduate | Curious about AI 🤖✨</h3>
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ritosri-saha-293aa6320/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/https://github.com/Ritosri-Saha">
+  <a href="https://github.com/Ritosri-Saha">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -72,8 +72,8 @@ My interests lie at the intersection of
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Ritosri-Saha&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ritosri-Saha&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritosri-Saha&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritosri-Saha&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
