@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Ritosri%20Saha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Ritosri-Saha.png" width="140" style="border-radius:50%;" />
-</p>
 
 <h3 align="center">Frontend Developer in Progress | ECE Undergraduate | Curious about AI 🤖✨</h3>
 
@@ -72,9 +69,10 @@ My interests lie at the intersection of
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritosri-Saha&show_icons=true&theme=tokyonight" alt="GitHub Stats Card" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritosri-Saha&layout=compact&theme=tokyonight" alt="Top Languages Card" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritosri-Saha&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritosri-Saha&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
 
 ---
 
