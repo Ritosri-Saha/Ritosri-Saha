@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="140" style="border-radius:50%;" />
+  <img src="https://github.com/https://github.com/Ritosri-Saha.png" width="140" style="border-radius:50%;" />
 </p>
 
 <h3 align="center">Frontend Developer in Progress | ECE Undergraduate | Curious about AI 🤖✨</h3>
@@ -72,8 +72,8 @@ My interests lie at the intersection of
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Ritosri-Saha&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Ritosri-Saha&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
